@@ -1,0 +1,18 @@
+In recent times, several significant cybersecurity breaches have occurred, each with distinct causes and impacts:
+	1.	ByBit Cryptocurrency Theft (February 2025):
+	•	Cause: Hackers exploited a vulnerability in ByBit’s Ethereum-based holdings, using a “masked transaction” to alter the smart contract code controlling a wallet.
+	•	Impact: Approximately $1.4 billion was stolen, marking one of the largest crypto thefts to date. ￼
+	2.	Change Healthcare Ransomware Attack (February 2024):
+	•	Cause: The ALPHV/BlackCat ransomware group targeted Change Healthcare, a major medical billing processor.
+	•	Impact: The attack disrupted medical services nationwide, compromising personal data of over 100 million individuals, including health records and financial information. ￼
+	3.	Microsoft Email Breach by Russian Hackers (January 2024):
+	•	Cause: The Russian-linked group “Midnight Blizzard” infiltrated Microsoft’s corporate email system by compromising system test accounts.
+	•	Impact: Sensitive emails and documents from senior leadership and cybersecurity teams were accessed, posing significant security concerns. ￼
+	4.	Snowflake Customer Data Breaches (Summer 2024):
+	•	Cause: Attackers used stolen passwords to access Snowflake accounts lacking two-factor authentication.
+	•	Impact: Data from approximately 165 organizations, including major companies like Ticketmaster and Santander Bank, was compromised. ￼
+	5.	Optus Data Breach (September 2022):
+	•	Cause: A vulnerability in Optus’s API allowed unauthorized access to customer data.
+	•	Impact: Personal information of up to 10 million customers, including names, addresses, and identification numbers, was exposed. ￼
+
+These incidents underscore the critical need for robust cybersecurity measures, including regular system audits, implementation of multi-factor authentication, and prompt software updates to protect sensitive data.
