@@ -1,0 +1,30 @@
+You can use free online tools to identify phishing emails by following these steps:
+
+1. Use Google’s Safe Browsing Tool
+	•	Tool: Google Safe Browsing
+	•	How it helps: Checks if a link in the email is dangerous.
+
+2. Scan Suspicious Links with VirusTotal
+	•	Tool: VirusTotal
+	•	How it helps: Analyzes links and attachments for malware.
+
+3. Check Email Headers with “Message Header Analyzer”
+	•	Tool: Google’s Email Header Analyzer
+	•	How it helps: Identifies fake sender addresses and IPs.
+
+4. Verify Email Legitimacy with CheckPhish
+	•	Tool: CheckPhish
+	•	How it helps: Detects phishing websites linked in emails.
+
+5. Analyze Attachments with MetaDefender
+	•	Tool: MetaDefender
+	•	How it helps: Scans email attachments for hidden threats.
+
+How to Spot Phishing Manually
+
+✔ Check the sender’s email address (look for misspellings).
+✔ Hover over links (without clicking) to see if they match official websites.
+✔ Look for urgent or threatening language (e.g., “Your account will be locked!”).
+✔ Verify with the company before clicking any links.
+
+Would you like a hands-on simulation with a sample phishing email?
