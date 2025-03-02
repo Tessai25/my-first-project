@@ -1,0 +1,53 @@
+hishing Attack Analysis and Key Indicators of Compromise (IoCs)
+
+1. Overview of the Phishing Attack
+
+Phishing is a social engineering attack where attackers impersonate legitimate entities to deceive users into providing sensitive information, such as login credentials, financial details, or personal data.
+
+2. Common Types of Phishing Attacks
+	•	Email Phishing: Fraudulent emails pretending to be from trusted organizations.
+	•	Spear Phishing: Targeted attacks aimed at specific individuals or organizations.
+	•	Whaling: Phishing attacks targeting high-ranking executives.
+	•	Smishing: Phishing attempts via SMS messages.
+	•	Vishing: Social engineering through phone calls.
+	•	Clone Phishing: Duplication of legitimate emails with malicious modifications.
+
+3. Evidence Collection in a Phishing Attack
+	•	Suspicious emails received by users.
+	•	URLs contained within the email or SMS.
+	•	Attached files that may contain malware.
+	•	Reports of unauthorized access to accounts or systems.
+	•	Changes in security settings or system behavior.
+
+4. Key Indicators of Compromise (IoCs)
+
+Email-Based IoCs
+	•	Suspicious sender addresses with minor spelling variations (e.g., support@paypa1.com instead of support@paypal.com).
+	•	Mismatched sender domains, where the email claims to be from a trusted entity but originates from an unrelated domain.
+	•	Urgent or threatening language, such as claims that an account will be locked if immediate action is not taken.
+	•	Unexpected attachments or links that prompt users to enter credentials.
+	•	Links that, when hovered over, reveal a different destination than expected.
+
+Website-Based IoCs
+	•	Websites using HTTP instead of HTTPS.
+	•	Domains that closely resemble legitimate ones but contain slight variations (e.g., faccebook.com instead of facebook.com).
+	•	Login pages that request credentials outside of the official website.
+	•	Pop-ups prompting users to download files or enter sensitive data.
+
+System-Based IoCs
+	•	Unauthorized access logs indicating login attempts from unusual locations or devices.
+	•	Unexplained changes to security configurations, such as disabled antivirus or modified firewall rules.
+	•	Malware execution from downloaded attachments.
+	•	Unusual network traffic patterns, such as outbound connections to unknown IP addresses.
+
+5. Investigation and Mitigation Steps
+	•	Analyze email headers using tools like MXToolbox to verify sender authenticity.
+	•	Inspect suspicious URLs with security tools like VirusTotal or URLScan.io.
+	•	Scan attachments with antivirus solutions or sandboxing tools like Hybrid Analysis.
+	•	Monitor system logs for unusual login attempts or unauthorized file access.
+	•	Educate users on recognizing phishing attempts and reporting suspicious messages.
+	•	Reset compromised credentials and enforce multi-factor authentication (MFA).
+
+6. Conclusion
+
+Identifying phishing attacks early is crucial in preventing data breaches and financial losses. Continuous monitoring, security awareness training, and strong authentication mechanisms can significantly reduce the risk of falling victim to phishing attempts.
